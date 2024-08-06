@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html {
   scroll-behavior: smooth;
 }
@@ -32,4 +33,39 @@ a:hover {
 #map {
   height: 500px;
   width: 100%;
+=======
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding-top: 55px;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+.logo {
+  width: 150px;
+  height: 200px;
+  object-fit: cover;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.logo:hover {
+  cursor: pointer;
+}
+
+#dark-mode-toggle {
+  height: 40px;
+  width: 40px;
+  border-radius: 10px;
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+>>>>>>> 0770821e38ee6a3f8feb9b1dad307e423652dd2d
 }
